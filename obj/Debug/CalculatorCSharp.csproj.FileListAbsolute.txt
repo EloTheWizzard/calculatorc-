@@ -1,0 +1,15 @@
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.exe.config
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.exe
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.pdb
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\MainWindow.g.cs
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\App.g.cs
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp_MarkupCompile.cache
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp_MarkupCompile.lref
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\MainWindow.baml
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.g.resources
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.Properties.Resources.resources
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.exe
+C:\Users\Kirill\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.pdb
